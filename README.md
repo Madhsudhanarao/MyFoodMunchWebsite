@@ -1,0 +1,1 @@
+I developed a responsive food store website where users can explore a range of food items, check out detailed descriptions. My goal was to ensure seamless browsing on any device, so I used a mobile-first approach with Bootstrap.
